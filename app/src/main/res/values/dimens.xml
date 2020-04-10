@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeTitle">18sp</dimen>
+    <dimen name="paddingTitle">20dp</dimen>
+    <dimen name="imageWidth">150dp</dimen>
+    <dimen name="imageHeight">150dp</dimen>
+    <dimen name="imageMargin">10dp</dimen>
+    <dimen name="textSizeFigure">15sp</dimen>
+    <dimen name="imageItemHeight">100dp</dimen>
+    <dimen name="imageItemWidth">100dp</dimen>
+    <dimen name="figureMargin">10dp</dimen>
+    <dimen name="itemPaddingLeft">10dp</dimen>
+    <dimen name="itemHeight">80dp</dimen>
+    <dimen name="itemWidth">80dp</dimen>
+    <dimen name="dividerHeight">2dp</dimen>
+</resources>

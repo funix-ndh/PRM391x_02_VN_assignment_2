@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="figure">Hà Nội, Việt Nam</string>
+    <string name="hotel">Khách Sạn</string>
+    <string name="atm">ATM</string>
+    <string name="hospital">Bệnh Viện</string>
+    <string name="bus">Xe Bus</string>
+</resources>
